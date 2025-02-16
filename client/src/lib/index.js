@@ -77,3 +77,5 @@ export const generateQuestion = (characters) => {
     question: frameQuestion(bestAttribute, value),
   };
 };
+
+export { default as GET_CHARACTERS } from "./queries.js";

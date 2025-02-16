@@ -1,10 +1,11 @@
 import { gql } from '@apollo/client';
 
-export const GET_CHARACTERS = gql`
+const GET_CHARACTERS = gql`
   query GetCharacters {
     characters {
       name
       movie
+      url
       gender
       species
       age
@@ -18,3 +19,5 @@ export const GET_CHARACTERS = gql`
     }
   }
 `;
+
+export default GET_CHARACTERS;
