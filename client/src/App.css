@@ -44,3 +44,8 @@
 p {
   font-size: 1.2rem;
 }
+
+.character-image {
+  max-width: 100%;
+  height: auto;
+}

@@ -59,7 +59,11 @@ function App() {
       {gameOver && guessCharacter && (
         <div>
           <h2>Your character is {guessCharacter.name}!</h2>
-          <img src={guessCharacter.url} alt={guessCharacter.name} />
+          <img
+            className="character-image"
+            src={guessCharacter.url}
+            alt={guessCharacter.name}
+          />
         </div>
       )}
       {question && (
