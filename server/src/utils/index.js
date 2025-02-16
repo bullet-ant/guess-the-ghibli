@@ -1,6 +1,4 @@
 const characters = require("../data/ghibli/static.json");
-
-///////////////////////////////////
 const readline = require("readline");
 
 // Create an interface for input and output
@@ -16,7 +14,6 @@ const askQuestion = (question) => {
     });
   });
 };
-///////////////////////////////////
 
 function frameQuestion(attribute, value) {
   switch (attribute) {

@@ -15,6 +15,8 @@ const typeDefs = gql`
     name: String!
     "The Studio Ghibli movie the character appears in"
     movie: String!
+    "The character's gif URL"
+    url: String!
     "The character's gender"
     gender: String
     "The character's species"
