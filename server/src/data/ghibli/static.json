@@ -1,0 +1,351 @@
+[
+  {
+    "name": "Chihiro Ogino",
+    "movie": "Spirited Away",
+    "gender": "Female",
+    "species": "Human",
+    "age": "Child",
+    "hair_color": "Black",
+    "eye_color": "Brown",
+    "traits": [
+      "Brave",
+      "Resourceful",
+      "Determined"
+    ],
+    "occupation": "Bathhouse Worker",
+    "allies": [
+      "Haku",
+      "Lin",
+      "Kamaji"
+    ],
+    "enemies": [
+      "Yubaba"
+    ],
+    "description": "A young girl who gets trapped in a spirit world and works in a bathhouse to free her parents."
+  },
+  {
+    "name": "Haku",
+    "movie": "Spirited Away",
+    "gender": "Male",
+    "species": "Spirit",
+    "age": "Unknown",
+    "hair_color": "Green",
+    "eye_color": "Green",
+    "traits": [
+      "Loyal",
+      "Protective",
+      "Mysterious"
+    ],
+    "occupation": "Yubaba's Apprentice",
+    "allies": [
+      "Chihiro Ogino"
+    ],
+    "enemies": [
+      "Yubaba"
+    ],
+    "description": "A river spirit who helps Chihiro navigate the spirit world."
+  },
+  {
+    "name": "Totoro",
+    "movie": "My Neighbor Totoro",
+    "gender": "Male",
+    "species": "Spirit",
+    "age": "Ancient",
+    "hair_color": "Grey",
+    "eye_color": "Black",
+    "traits": [
+      "Friendly",
+      "Playful",
+      "Mysterious"
+    ],
+    "occupation": "Forest Spirit",
+    "allies": [
+      "Satsuki Kusakabe",
+      "Mei Kusakabe"
+    ],
+    "enemies": [],
+    "description": "A large, friendly forest spirit who befriends two young sisters."
+  },
+  {
+    "name": "Howl",
+    "movie": "Howl's Moving Castle",
+    "gender": "Male",
+    "species": "Human",
+    "age": "Young Adult",
+    "hair_color": "Blonde",
+    "eye_color": "Green",
+    "traits": [
+      "Charismatic",
+      "Vain",
+      "Courageous"
+    ],
+    "occupation": "Wizard",
+    "allies": [
+      "Sophie Hatter",
+      "Calcifer"
+    ],
+    "enemies": [
+      "Madame Suliman"
+    ],
+    "description": "A wizard who lives in a moving castle and is cursed by a witch."
+  },
+  {
+    "name": "Sophie Hatter",
+    "movie": "Howl's Moving Castle",
+    "gender": "Female",
+    "species": "Human",
+    "age": "Teenager",
+    "hair_color": "Brown",
+    "eye_color": "Brown",
+    "traits": [
+      "Kind",
+      "Determined",
+      "Selfless"
+    ],
+    "occupation": "Hat Maker",
+    "allies": [
+      "Howl",
+      "Calcifer"
+    ],
+    "enemies": [
+      "Witch of the Waste"
+    ],
+    "description": "A young woman cursed to look like an old woman who seeks to break the curse."
+  },
+  {
+    "name": "Ponyo",
+    "movie": "Ponyo",
+    "gender": "Female",
+    "species": "Fish/Human",
+    "age": "Young Child",
+    "hair_color": "Red",
+    "eye_color": "Blue",
+    "traits": [
+      "Curious",
+      "Playful",
+      "Loving"
+    ],
+    "occupation": "None",
+    "allies": [
+      "Sosuke"
+    ],
+    "enemies": [
+      "Fujimoto"
+    ],
+    "description": "A goldfish who transforms into a human girl and befriends a young boy."
+  },
+  {
+    "name": "Kiki",
+    "movie": "Kiki's Delivery Service",
+    "gender": "Female",
+    "species": "Human",
+    "age": "Teenager",
+    "hair_color": "Black",
+    "eye_color": "Brown",
+    "traits": [
+      "Independent",
+      "Hardworking",
+      "Optimistic"
+    ],
+    "occupation": "Witch in Training",
+    "allies": [
+      "Jiji",
+      "Osono"
+    ],
+    "enemies": [],
+    "description": "A young witch who moves to a new town to start her own delivery service."
+  },
+  {
+    "name": "Ashitaka",
+    "movie": "Princess Mononoke",
+    "gender": "Male",
+    "species": "Human",
+    "age": "Teenager",
+    "hair_color": "Black",
+    "eye_color": "Brown",
+    "traits": [
+      "Noble",
+      "Compassionate",
+      "Determined"
+    ],
+    "occupation": "Prince",
+    "allies": [
+      "San",
+      "Moro"
+    ],
+    "enemies": [
+      "Lady Eboshi"
+    ],
+    "description": "A prince cursed by a demon who seeks to find a cure and bring peace between humans and nature."
+  },
+  {
+    "name": "San",
+    "movie": "Princess Mononoke",
+    "gender": "Female",
+    "species": "Human",
+    "age": "Teenager",
+    "hair_color": "Black",
+    "eye_color": "Brown",
+    "traits": [
+      "Fierce",
+      "Loyal",
+      "Protective"
+    ],
+    "occupation": "Wolf Girl",
+    "allies": [
+      "Ashitaka",
+      "Moro"
+    ],
+    "enemies": [
+      "Lady Eboshi"
+    ],
+    "description": "A girl raised by wolves who fights to protect the forest from human destruction."
+  },
+  {
+    "name": "Seita",
+    "movie": "Grave of the Fireflies",
+    "gender": "Male",
+    "species": "Human",
+    "age": "Teenager",
+    "hair_color": "Black",
+    "eye_color": "Brown",
+    "traits": [
+      "Responsible",
+      "Loving",
+      "Resilient"
+    ],
+    "occupation": "None",
+    "allies": [
+      "Setsuko"
+    ],
+    "enemies": [],
+    "description": "A young boy struggling to survive and care for his younger sister during World War II."
+  },
+  {
+    "name": "Setsuko",
+    "movie": "Grave of the Fireflies",
+    "gender": "Female",
+    "species": "Human",
+    "age": "Young Child",
+    "hair_color": "Black",
+    "eye_color": "Brown",
+    "traits": [
+      "Innocent",
+      "Playful",
+      "Loving"
+    ],
+    "occupation": "None",
+    "allies": [
+      "Seita"
+    ],
+    "enemies": [],
+    "description": "A young girl who depends on her older brother for survival during World War II."
+  },
+  {
+    "name": "Nausicaä",
+    "movie": "Nausicaä of the Valley of the Wind",
+    "gender": "Female",
+    "species": "Human",
+    "age": "Teenager",
+    "hair_color": "Brown",
+    "eye_color": "Blue",
+    "traits": [
+      "Compassionate",
+      "Brave",
+      "Determined"
+    ],
+    "occupation": "Princess",
+    "allies": [
+      "Asbel",
+      "Teto"
+    ],
+    "enemies": [
+      "Kushana"
+    ],
+    "description": "A princess who strives to bring peace between humans and the toxic jungle."
+  },
+  {
+    "name": "Porco Rosso",
+    "movie": "Porco Rosso",
+    "gender": "Male",
+    "species": "Human (Cursed as a Pig)",
+    "age": "Middle-Aged Adult",
+    "hair_color": "Brown",
+    "eye_color": "Brown",
+    "traits": [
+      "Cynical",
+      "Skilled",
+      "Honorable"
+    ],
+    "occupation": "Bounty Hunter",
+    "allies": [
+      "Fio Piccolo"
+    ],
+    "enemies": [
+      "Curtis"
+    ],
+    "description": "A World War I fighter pilot cursed to look like a pig who now works as a bounty hunter."
+  },
+  {
+    "name": "Fio Piccolo",
+    "movie": "Porco Rosso",
+    "gender": "Female",
+    "species": "Human",
+    "age": "Teenager",
+    "hair_color": "Blonde",
+    "eye_color": "Blue",
+    "traits": [
+      "Intelligent",
+      "Determined",
+      "Courageous"
+    ],
+    "occupation": "Aircraft Engineer",
+    "allies": [
+      "Porco Rosso"
+    ],
+    "enemies": [
+      "Curtis"
+    ],
+    "description": "A young aircraft engineer who helps Porco Rosso rebuild his plane."
+  },
+  {
+    "name": "Shizuku Tsukishima",
+    "movie": "Whisper of the Heart",
+    "gender": "Female",
+    "species": "Human",
+    "age": "Teenager",
+    "hair_color": "Brown",
+    "eye_color": "Brown",
+    "traits": [
+      "Creative",
+      "Determined",
+      "Dreamer"
+    ],
+    "occupation": "Student",
+    "allies": [
+      "Seiji Amasawa"
+    ],
+    "enemies": [],
+    "description": "A young girl who discovers her passion for writing and follows her dreams."
+  },
+  {
+    "name": "Seiji Amasawa",
+    "movie": "Whisper of the Heart",
+    "gender": "Male",
+    "species": "Human",
+    "age": "Teenager",
+    "hair_color": "Black",
+    "eye_color": "Brown",
+    "traits": [
+      "Ambitious",
+      "Talented",
+      "Supportive"
+    ],
+    "occupation": "Student",
+    "allies": [
+      "Shizuku Tsukishima"
+    ],
+    "enemies": [],
+    "description": "A young boy who dreams of becoming a master violin maker and supports Shizuku in her writing."
+  }
+]
